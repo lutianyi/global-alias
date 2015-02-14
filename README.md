@@ -15,7 +15,7 @@ global-alias command with mac
 `$ alias subl=\''/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'\'`  
 
 3. 保存bashrc后退出:  
-`$ alias source ~/.bashrc`  
+`$ source ~/.bashrc`  
 
 ## Usage
 打开当前目录  
